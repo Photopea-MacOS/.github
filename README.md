@@ -1,2 +1,1 @@
-# .github
-BandLab for Mac is a powerful desktop music creation studio with multi-track recording, virtual instruments, and real-time collaboration tools for macOS.
+Download Photopea for Mac — a fast and lightweight desktop editor for MacOS with full PSD, Sketch, and XD support.
